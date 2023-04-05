@@ -1,0 +1,58 @@
+class Programa {
+    static void Main (string[]args) {
+
+    double nota1 = 0; double nota2 = 0; double media = 0; double mediaTurma = 0; double somaMedia = 0;
+    string n1=""; string n2="";
+    bool encerraPrograma = false;
+    int quantAlunos = 0;
+    
+    do{
+        quantAlunos++;
+//Leitura das Notas e Verificação de Validade (TryParse)
+        Console.Write("Digite a nota 1 : ");
+        n1 = Console.ReadLine();
+
+        while(!double.TryParse(n1, out nota1)){
+        Console.Write("Nota inválida. Digite uma nota válida: ");
+        n1 = Console.ReadLine(); }
+
+        Console.Write("Digite a nota 2 : ");
+        n2 = Console.ReadLine();
+
+        while(!double.TryParse(n2, out nota2)){
+        Console.Write("Nota inválida. Digite uma nota válida: ");
+        n2 = Console.ReadLine();}
+
+// Verificação com trycatch prevendo exceções
+        try{
+        media = Media.Calculo(nota1, nota2);
+               
+        somaMedia += media;
+        Console.Write("A média do aluno foi : {0:0.##}\n", media);
+        }catch (Exception e){
+        Console.Write("Inválido - " + e.Message);}
+
+// Encerrando o programa e exibindo a média da turma
+         
+        Console.Write ("\nDigite 'n' para encerrar a execução ou digite qualquer tecla para continuar: ");
+        if (Console.ReadLine()=="n") 
+        encerraPrograma = true; }
+        while (encerraPrograma!=true);
+
+        mediaTurma=somaMedia/quantAlunos;
+        Console.Write("A média da turma foi : {0:0.##}\n", mediaTurma);}
+
+// Classe Média Efetuando o Cálculo da Média de Cada Estudante
+public class Media { 
+    public static double Calculo(double nota1, double nota2){
+        double media = double.NaN;
+        media = (nota1+nota2)/2;
+        return media;}
+    }
+}
+public class Media {
+    public static double Calculo(double nota1, double nota2){
+        double media = double.NaN;
+        media = (nota1+nota2)/2;
+        return media;}
+}
