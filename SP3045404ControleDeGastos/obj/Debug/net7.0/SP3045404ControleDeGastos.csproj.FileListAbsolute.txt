@@ -1,0 +1,15 @@
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.csproj.AssemblyReference.cache
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.AssemblyInfoInputs.cache
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.AssemblyInfo.cs
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3045404ControleDeGastos/bin/Debug/net7.0/SP3045404ControleDeGastos
+/home/estudante1/SP3045404ControleDeGastos/bin/Debug/net7.0/SP3045404ControleDeGastos.deps.json
+/home/estudante1/SP3045404ControleDeGastos/bin/Debug/net7.0/SP3045404ControleDeGastos.runtimeconfig.json
+/home/estudante1/SP3045404ControleDeGastos/bin/Debug/net7.0/SP3045404ControleDeGastos.dll
+/home/estudante1/SP3045404ControleDeGastos/bin/Debug/net7.0/SP3045404ControleDeGastos.pdb
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.dll
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/refint/SP3045404ControleDeGastos.dll
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.pdb
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/SP3045404ControleDeGastos.genruntimeconfig.cache
+/home/estudante1/SP3045404ControleDeGastos/obj/Debug/net7.0/ref/SP3045404ControleDeGastos.dll
