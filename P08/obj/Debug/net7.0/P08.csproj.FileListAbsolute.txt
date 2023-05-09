@@ -1,0 +1,15 @@
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.csproj.AssemblyReference.cache
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.AssemblyInfoInputs.cache
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.AssemblyInfo.cs
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3045404/P08/bin/Debug/net7.0/P08
+/home/estudante1/SP3045404/P08/bin/Debug/net7.0/P08.deps.json
+/home/estudante1/SP3045404/P08/bin/Debug/net7.0/P08.runtimeconfig.json
+/home/estudante1/SP3045404/P08/bin/Debug/net7.0/P08.dll
+/home/estudante1/SP3045404/P08/bin/Debug/net7.0/P08.pdb
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.dll
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/refint/P08.dll
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.pdb
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/P08.genruntimeconfig.cache
+/home/estudante1/SP3045404/P08/obj/Debug/net7.0/ref/P08.dll
